@@ -1,16 +1,19 @@
-### Hi there 👋
+#### Languages:
+* C++
+* Bash/Shell
 
-<!--
-**Wa1t5/Wa1t5** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+#### Operational Systems:
+* Linux
+* Windows
 
-Here are some ideas to get you started:
+#### Shell/Bash Portfolio:
+* Music: https://github.com/Wa1t5/music (Listen music directly from the terminal)
+* Anime: https://github.com/Wa1t5/anime (Watch anime directly from terminal)
+* Search: https://github.com/Wa1t5/search (Small library that I wrote, used on my music and anime scripts)
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+#### C++ Portfolio:
+* Currently writing a framework with SDL to get more experience with c++
+
+#### Social medias
+* Discord: Waltz#7100
+* Email: wa1t5@proton.me
