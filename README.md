@@ -14,6 +14,6 @@
 #### C++ Portfolio:
 * Currently writing a framework with SDL to get more experience with c++
 
-#### Rech me:
+#### Reach me:
 * Discord: Waltz#7100
 * Email: wa1t5@proton.me
