@@ -13,6 +13,7 @@
 
 #### C++ Portfolio:
 * Hm: https://github.com/Wa1t5/Hm (Custom 2D Framework made with SDL, still a work in progress)
+* Hm-Examples: https://github.com/Wa1t5/Hm-Examples (Projects built using Hm)
 
 #### Reach me:
 * Discord: Waltz#7100
