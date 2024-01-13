@@ -1,36 +1,42 @@
-![Waltz's GitHub stats](https://github-readme-stats.vercel.app/api?username=wa1t5&theme=transparent&bg_color=0.5,000000,6200f5)
+### Whoami
+Heyo, I'm waltz a gamedev that sometimes mess around with other stuff like low-level coding and music
 
 
-![Waltz's Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=wa1t5&theme=transparent&bg_color=0.5,000000,6200f5)
+![Waltz's Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=wa1t5&theme=dark)
+![Waktz's GitHub stats](https://github-readme-stats.vercel.app/api?username=wa1t5&show_icons=true&theme=dark)
 
-### Languages:
-* C          (5)
-* C++        (6)
-* ASM(i686)  (3)
-* Nix        (5)
-* GML        (8)
-* GDScript   (5)
+### Languages
+![C](https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white)
+![C++](https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white)
+![C#](https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white)
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![Shell](https://img.shields.io/badge/Shell_Script-121011?style=for-the-badge&logo=gnu-bash&logoColor=white)
+![Markdown](https://img.shields.io/badge/Markdown-000000?style=for-the-badge&logo=markdown&logoColor=white)
 
-### Game Engines:
-* Game Maker        (9)
-* Godot Engine      (5)
+### Game Engines
+![GameMaker](https://img.shields.io/badge/GameMaker-000000?style=for-the-badge&logo=gamemaker&logoColor=white)
+![Godot](https://img.shields.io/badge/Godot-000000?style=for-the-badge&logo=godotengine&logoColor=white)
 
-### Operational Systems:
-* Linux   (NixOS, Gentoo, Arch, Void) (7)
-* Windows                             (7)
-* BSD     (FreeBSD)                   (2)
-  
-### Info:
-* Numbers mean skill level!
+### Toolchains
+![LLVM](https://img.shields.io/badge/LLVM-276DC3?style=for-the-badge&logo=llvm&logoColor=white)
 
-### C/C++/ASM Portfolio:
-* Neon Genesis (Operational System): https://github.com/Wa1t5/Neon-Genesis
-* Hm (Game Framework): https://github.com/Wa1t5/Hm
-### GM Portfolio
-* GMEntt (Game Maker Entity System): https://github.com/Wa1t5/GMEntt
+### Operational Systems
+![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
+![NixOS](https://img.shields.io/badge/NixOS-5277C3?style=for-the-badge&logo=nixos&logoColor=white)
+![Arch](https://img.shields.io/badge/Arch_Linux-1793D1?style=for-the-badge&logo=arch-linux&logoColor=white)
+![Gentoo](https://img.shields.io/badge/Gentoo-54487A?style=for-the-badge&logo=gentoo&logoColor=white)
+![FreeBSD](https://img.shields.io/badge/freebsd-AB2B28?style=for-the-badge&logo=freebsd&logoColor=white)
+![Windows](https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white)
 
-### Shell/Bash Portfolio:
-* Music: https://github.com/Wa1t5/music (Listen music directly from the terminal)
-* Anime: https://github.com/Wa1t5/anime (Watch anime directly from terminal)
-* Search: https://github.com/Wa1t5/search (Small library that I wrote, used on my music and anime scripts)
+### C/C++/ASM 
+[![Magi](https://github-readme-stats.vercel.app/api/pin/?username=wa1t5&repo=magi&theme=dark)](https://github.com/wa1t5/magi)
+[![Hm](https://github-readme-stats.vercel.app/api/pin/?username=wa1t5&repo=hm&theme=dark)](https://github.com/wa1t5/hm)
+
+### GM
+[![GmEntt](https://github-readme-stats.vercel.app/api/pin/?username=wa1t5&repo=gmentt&theme=dark)](https://github.com/wa1t5/gmentt)
+
+### Shell/Bash 
+[![Music](https://github-readme-stats.vercel.app/api/pin/?username=wa1t5&repo=music&theme=dark)](https://github.com/wa1t5/music)
+[![Anime](https://github-readme-stats.vercel.app/api/pin/?username=wa1t5&repo=anime&theme=dark)](https://github.com/wa1t5/anime)
+[![Search](https://github-readme-stats.vercel.app/api/pin/?username=wa1t5&repo=search&theme=dark)](https://github.com/wa1t5/search)
 
