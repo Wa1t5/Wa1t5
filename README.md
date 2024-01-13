@@ -38,6 +38,7 @@ Heyo, I'm waltz a gamedev that sometimes mess around with other stuff like low-l
 
 ### GM
 [![GmEntt](https://github-readme-stats.vercel.app/api/pin/?username=wa1t5&repo=gmentt&theme=dark)](https://github.com/wa1t5/gmentt)
+[![MenuTesteSeletivo](https://github-readme-stats.vercel.app/api/pin/?username=wa1t5&repo=menutesteseletivo&theme=dark)](https://github.com/wa1t5/menutesteseletivo)
 
 ### Shell/Bash 
 [![Music](https://github-readme-stats.vercel.app/api/pin/?username=wa1t5&repo=music&theme=dark)](https://github.com/wa1t5/music)
