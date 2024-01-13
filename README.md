@@ -15,7 +15,7 @@ Heyo, I'm waltz a gamedev that sometimes mess around with other stuff like low-l
 
 ### Game Engines
 ![GameMaker](https://img.shields.io/badge/GameMaker-000000?style=for-the-badge&logo=gamemaker&logoColor=white)
-![Godot](https://img.shields.io/badge/Godot-000000?style=for-the-badge&logo=godotengine&logoColor=white)
+![Godot](https://img.shields.io/badge/Godot-145afc?style=for-the-badge&logo=godotengine&logoColor=white)
 
 ### Toolchains
 ![LLVM](https://img.shields.io/badge/LLVM-276DC3?style=for-the-badge&logo=llvm&logoColor=white)
@@ -27,6 +27,10 @@ Heyo, I'm waltz a gamedev that sometimes mess around with other stuff like low-l
 ![Gentoo](https://img.shields.io/badge/Gentoo-54487A?style=for-the-badge&logo=gentoo&logoColor=white)
 ![FreeBSD](https://img.shields.io/badge/freebsd-AB2B28?style=for-the-badge&logo=freebsd&logoColor=white)
 ![Windows](https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white)
+
+### Socials
+[![X](https://img.shields.io/badge/x-000000?style=for-the-badge&logo=x&logoColor=white)](https://twitter.com/_Wa1t5)
+[![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Wa1t5)
 
 ### C/C++/ASM 
 [![Magi](https://github-readme-stats.vercel.app/api/pin/?username=wa1t5&repo=magi&theme=dark)](https://github.com/wa1t5/magi)
