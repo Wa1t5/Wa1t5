@@ -1,5 +1,5 @@
 ### Whoami
-Heyo, I'm waltz a gamedev that sometimes mess around with other stuff like low-level coding and music
+Heyo, I'm waltz a gamedev that sometimes mess around with other coding related stuff and music
 
 
 ![Waltz's Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=wa1t5&theme=dark)
