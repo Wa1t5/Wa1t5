@@ -12,6 +12,7 @@ Heyo, I'm waltz a gamedev that sometimes mess around with other coding related s
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 ![Shell](https://img.shields.io/badge/Shell_Script-121011?style=for-the-badge&logo=gnu-bash&logoColor=white)
 ![Markdown](https://img.shields.io/badge/Markdown-000000?style=for-the-badge&logo=markdown&logoColor=white)
+![Nix](https://img.shields.io/badge/Nix-229dc9?style=for-the-badge&logo=nixos&logoColor=white)
 
 ### Game Engines
 ![GameMaker](https://img.shields.io/badge/GameMaker-000000?style=for-the-badge&logo=gamemaker&logoColor=white)
