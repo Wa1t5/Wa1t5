@@ -39,6 +39,7 @@ average developer
 ### C/C++/ASM 
 [![Magi](https://github-readme-stats.vercel.app/api/pin/?username=wa1t5&repo=magi&theme=dark)](https://github.com/wa1t5/magi)
 [![Hm](https://github-readme-stats.vercel.app/api/pin/?username=wa1t5&repo=hm&theme=dark)](https://github.com/wa1t5/hm)
+[![Tempest](https://github-readme-stats.vercel.app/api/pin/?username=wa1t5&repo=tempest&theme=dark)](https://github.com/wa1t5/tempest)
 
 ### GM
 [![GmEntt](https://github-readme-stats.vercel.app/api/pin/?username=wa1t5&repo=gmentt&theme=dark)](https://github.com/wa1t5/gmentt)
