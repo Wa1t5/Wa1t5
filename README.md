@@ -33,8 +33,10 @@ average developer
 ![Windows](https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white)
 
 ### Socials
-[![X](https://img.shields.io/badge/x-000000?style=for-the-badge&logo=x&logoColor=white)](https://twitter.com/_Wa1t5)
 [![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Wa1t5)
+
+### Flutter
+[![Kotoba](https://github-readme-stats.vercel.app/api/pin/?username=wa1t5&repo=kotoba&theme=dark)](https://github.com/wa1t5/kotoba)
 
 ### C/C++/ASM 
 [![Magi](https://github-readme-stats.vercel.app/api/pin/?username=wa1t5&repo=magi&theme=dark)](https://github.com/wa1t5/magi)
