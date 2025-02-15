@@ -1,4 +1,3 @@
-![Waltz's Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=wa1t5&theme=dark)
 ![Waktz's GitHub stats](https://github-readme-stats.vercel.app/api?username=wa1t5&show_icons=true&theme=dark)
 
 ### Languages
