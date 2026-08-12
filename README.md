@@ -11,10 +11,8 @@ I've been programming for years and started a software engineering major in 2026
 I enjoy tinkering with NixOS, dotfiles, C++, Dart, and whatever else catches my interest.
 
 <a href="https://github.com/Wa1t5">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=22&duration=3000&pause=800&color=CBA6F7&background=1E1E2E00&center=true&vCenter=true&width=460&lines=nixos+%2B+dotfiles+tinkerer;c%2B%2B+%2F+dart+%2F+nix;probably+overengineering+this;currently+fighting+the+compiler;configuring+things+that+don't+need+configuring;" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=22&duration=3000&pause=800&color=CBA6F7&background=1E1E2E00&center=true&vCenter=true&width=460&lines=nixos+%2B+dotfiles+tinkerer;c%2B%2B+%2F+dart+%2F+nix;probably+overengineering+this;currently+fighting+the+compiler;configuring+things+that+don't+need+configuring" alt="Typing SVG" />
 </a>
-
-
 
 ### 📌 Pinned Projects
 
@@ -36,6 +34,14 @@ I enjoy tinkering with NixOS, dotfiles, C++, Dart, and whatever else catches my 
 
 <br>
 
+### 🌱 Open Source Contributions
+
+**[NixOS/nixos-hardware](https://github.com/NixOS/nixos-hardware/pull/794)** — added hardware support for the **Lenovo IdeaPad S145-15API**, including audio and rfkill fixes
+
+**[Hyprland Wiki](https://github.com/hyprwm/hyprland-wiki/pull/80)** — added **Gentoo installation instructions** for `xdg-desktop-portal-hyprland`
+
+<br>
+
 ### 📊 Stats
 
 <img height="165" src="https://github-stats-extended.vercel.app/api?username=wa1t5&show_icons=true&theme=catppuccin_mocha&hide_border=true" />
@@ -43,7 +49,7 @@ I enjoy tinkering with NixOS, dotfiles, C++, Dart, and whatever else catches my 
 
 <br>
 
-### 🧑‍💻 Languages/Frameworks
+### 🧑‍💻 Languages & Frameworks
 
 ![Bash](https://img.shields.io/badge/Bash-313244?style=for-the-badge\&logo=gnubash\&logoColor=A6E3A1)
 ![C](https://img.shields.io/badge/C-313244?style=for-the-badge\&logo=c\&logoColor=89B4FA)
@@ -70,6 +76,7 @@ I enjoy tinkering with NixOS, dotfiles, C++, Dart, and whatever else catches my 
 ![Unity](https://img.shields.io/badge/Unity-313244?style=for-the-badge\&logo=unity\&logoColor=F38BA8)
 
 <br>
+
 
 <img width="100%" src="https://pbs.twimg.com/media/G5ya-yrWAAAp3kQ?format=jpg&name=4096x4096" alt="banner" />
 
