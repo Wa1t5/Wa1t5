@@ -11,10 +11,10 @@ I've been programming for years and started a software engineering major in 2026
 I enjoy tinkering with NixOS, dotfiles, C++, Dart, and whatever else catches my interest.
 
 <a href="https://github.com/Wa1t5">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=22&duration=3000&pause=800&color=CBA6F7&background=1E1E2E00&center=true&vCenter=true&width=460&lines=nixos+%2B+dotfiles+tinkerer;c%2B%2B+%2F+dart+%2F+nix;building+kaze%2C+tempest%2C+magi" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=22&duration=3000&pause=800&color=CBA6F7&background=1E1E2E00&center=true&vCenter=true&width=460&lines=nixos+%2B+dotfiles+tinkerer;c%2B%2B+%2F+dart+%2F+nix;probably+overengineering+this;currently+fighting+the+compiler;configuring+things+that+don't+need+configuring;" alt="Typing SVG" />
 </a>
 
-<br>
+
 
 ### 📌 Pinned Projects
 
