@@ -7,7 +7,7 @@
 
 I'm a software engineering student and developer interested in systems, tooling, Linux, and game development.
 
-I've been programming for years and started a software engineering major in 2026.
+I've been programming for years(since 14) and started a software engineering major in 2026.
 I enjoy tinkering with NixOS, dotfiles, C++, Dart, and whatever else catches my interest.
 
 <a href="https://github.com/Wa1t5">
